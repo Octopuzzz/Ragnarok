@@ -1,0 +1,49 @@
+.swordman-image {
+  text-align: center;
+  padding: 30px 0;
+  padding-top: 60px;
+
+}
+.swordman-image > img {
+    width: 50%;
+}
+.line-break {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  border-color :#f8430b;
+  margin: 20px 0;
+}
+
+.content-text {
+  padding: 50px 0;
+  text-align: center;
+  color: #f8430b;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.content-table {
+  padding: 0 20px;
+  padding-bottom: 50px;
+}
+td {
+  padding: 10px 30px;
+  color: #f8430b;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.col-1 {
+  width: 10%;
+}
+.col-2 {
+  width: 20%;
+}
+.col-3 {
+  width: 70%;
+}

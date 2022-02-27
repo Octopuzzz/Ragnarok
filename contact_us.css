@@ -1,0 +1,56 @@
+.title {
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #f8430b;
+  text-decoration:underline;
+  padding: 30px 0;
+}
+.content {
+  text-align: center;
+  padding: 0 15%;
+}
+.submit-btn {
+  text-align: center;
+  margin-top: 30px;
+  padding-bottom: 80px;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 5px solid #f8430b;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 30%;
+  background-color: #f8430b;
+  color: white;
+  font-weight: bolder;
+  font-size: 25px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+select, option, input {
+  font-size: 20px;
+  color: #f8430b;
+  font-family: sans-serif;
+}
+
+input[type=submit]:hover {
+  background-color: orange;
+}
+
+.content {
+    text-align: left;
+}
+label {
+  font-size: 20px;
+  color: #f8430b;
+  font-family: sans-serif;
+}
